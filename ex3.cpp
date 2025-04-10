@@ -1,3 +1,7 @@
+/*
+EXERCICIO 3: À partir de uma lista de nomes disponível em um arquivo TXT, transforma-los em nomes no formato agenda telefônica. 
+Exemplo: José Antonio Santos Silva => Silva, José Antonio Santos
+*/
 #include <iostream>
 #include <fstream>
 #include <locale.h>
